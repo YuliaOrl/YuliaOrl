@@ -1,8 +1,8 @@
-### Всем привет! 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2357BB&background=FFFFFF&center=true&width=435&lines=%D0%92%D1%81%D0%B5%D0%BC+%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82!;%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%AE%D0%BB%D0%B8%D1%8F.)](https://git.io/typing-svg)
 
-- 🔭 Меня зовут Юлия. Я инженер по тестированию программного обеспечения.
-- 🌱 На данный момент я изучаю автоматизацию тестирования на Java.
-- 📫 Связаться со мной: [<img width="2%" title="Telegram" src="images/logo/Telegram.svg">](https://t.me/Yulia_Orl) 
+- 🔭 Я инженер по тестированию программного обеспечения.
+- 🌱 На данный момент изучаю автоматизацию тестирования на Java.
+- 📫 Связаться со мной можно в [<img width="2%" title="Telegram" src="images/logo/Telegram.svg">](https://t.me/Yulia_Orl) 
 
 <table width="100%" border='0'>
    <tr> 
@@ -14,12 +14,12 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuliaOrl)](https://github.com/YuliaOrl/github-readme-stats)
 
-### Примеры моих проектов по автоматизации тестирования Web, API и Mobile
+### :orange_book: Примеры моих проектов по автоматизации тестирования Web, API и Mobile
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YuliaOrl&repo=Project-UI-PobedaAero)](https://github.com/YuliaOrl/Project-UI-PobedaAero)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YuliaOrl&repo=Project-API-Reqres)](https://github.com/YuliaOrl/Project-API-Reqres)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YuliaOrl&repo=Project-Mobile-Wikipedia)](https://github.com/YuliaOrl/Project-Mobile-Wikipedia)
 
-#### Используемые иструменты и технологии:
+#### :computer: Использованный стек технологий:
 <p align="center">
 <code><img width="6%" title="Java" src="images/logo/Java.svg"></code>
 <code><img width="6%" title="IntelliJ IDEA" src="images/logo/IntelijIDEA.svg"></code>
@@ -53,18 +53,18 @@
  * логи браузерной консоли;
  * видео выполнения UI и Mobile тестов.
  
- Для Web тестов:
+ :pushpin: Для Web тестов:
 - [x] Параметризованные UI тесты
 - [x] Реализация `Page Object` c использованием `Chain of Invocations`
 - [x] Удаленный запуск с помощью `Selenoid`
 
- Для API тестов:
+ :pushpin: Для API тестов:
 - [x] Библиотека `Rest-Assured`
 - [x] Использование библиотеки `Lombok` для моделей получаемых данных
 - [x] Использование Request/Response спецификаций
 - [x] Кастомный `Allure listener` для форматированного логирования API запросов/ответов
  
- Для Mobile тестов:
+ :pushpin: Для Mobile тестов:
 - [x] Использование фреймворка `Appium`
 - [x] Удаленный запуск с помощью сервиса BrowserStack
 - [x] Возможно использование эмулятора Android Studio или устройства Android
