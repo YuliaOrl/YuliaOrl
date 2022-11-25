@@ -18,7 +18,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YuliaOrl&repo=Project-API-Reqres)](https://github.com/YuliaOrl/Project-API-Reqres)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YuliaOrl&repo=Project-Mobile-Wikipedia)](https://github.com/YuliaOrl/Project-Mobile-Wikipedia)
 
-:computer: #### Использованный стек технологий:
+#### :computer: Использованный стек технологий:
 <p align="center">
 <code><img width="6%" title="Java" src="images/logo/Java.svg"></code>
 <code><img width="6%" title="IntelliJ IDEA" src="images/logo/IntelijIDEA.svg"></code>
