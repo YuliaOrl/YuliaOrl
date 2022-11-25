@@ -29,10 +29,10 @@
 <code><img width="6%" title="Selenoid" src="images/logo/Selenoid.svg"></code>
 <code><img width="6%" title="Allure TestOps" src="images/logo/AllureReport.svg"></code>
 <code><img width="6%" title="Allure Report" src="images/logo/AllureTestOps.svg"></code>
-<code><img width="6%" title="AndroidStudio" src="images/logo/AndroidStudio.svg"></code>
+<code><img width="7%" title="AndroidStudio" src="images/logo/AndroidStudio.svg"></code>
 <code><img width="5%" title="Appium" src="images/logo/Appium.svg"></code>
-<code><img width="5%" title="RestAssured" src="images/logo/RestAssured.svg"></code>
-<code><img width="6%" title="Browserstack" src="images/logo/BrowserStack.svg"></code>
+<code><img width="7%" title="RestAssured" src="images/logo/RestAssured.svg"></code>
+<code><img width="5%" title="Browserstack" src="images/logo/BrowserStack.svg"></code>
 <code><img width="6%" title="GitHub" src="images/logo/GitHub.svg"></code>
 <code><img width="6%" title="Jenkins" src="images/logo/Jenkins.svg"></code>
 <code><img width="6%" title="Telegram" src="images/logo/Telegram.svg"></code>
