@@ -1,8 +1,8 @@
-## Всем привет! 👋
+### Всем привет! 👋
 
 - 🔭 Меня зовут Юлия. Я инженер по тестированию программного обеспечения.
 - 🌱 На данный момент я изучаю автоматизацию тестирования на Java.
-- 📫 Связаться со мной: [<img width="3%" title="Telegram" src="images/logo/Telegram.svg">](https://t.me/Yulia_Orl) 
+- 📫 Связаться со мной: [<img width="2%" title="Telegram" src="images/logo/Telegram.svg">](https://t.me/Yulia_Orl) 
 
 <table width="100%" border='0'>
    <tr> 
