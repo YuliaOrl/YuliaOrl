@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=27&pause=1000&color=E4590D&background=FFFFFF&center=true&width=435&lines=%D0%92%D1%81%D0%B5%D0%BC+%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82!)](https://git.io/typing-svg)
-
 - 🔭 Меня зовут Юлия. Я инженер по тестированию программного обеспечения.
 - 🌱 На данный момент изучаю автоматизацию тестирования на Java.
-- 📫 Связаться со мной можно в [<img width="2%" title="Telegram" src="images/logo/Telegram.svg">](https://t.me/Yulia_Orl) 
+- 📫 Связаться со мной можно в [<img width="3%" title="Telegram" src="images/logo/Telegram.svg">](https://t.me/Yulia_Orl) 
 
 <table width="100%" border='0'>
    <tr> 
