@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2357BB&background=FFFFFF&center=true&width=435&lines=%D0%92%D1%81%D0%B5%D0%BC+%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82!;%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%AE%D0%BB%D0%B8%D1%8F.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=27&pause=1000&color=E4590D&background=FFFFFF&center=true&width=435&lines=%D0%92%D1%81%D0%B5%D0%BC+%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82!)](https://git.io/typing-svg)
 
-- 🔭 Я инженер по тестированию программного обеспечения.
+- 🔭 Меня зовут Юлия. Я инженер по тестированию программного обеспечения.
 - 🌱 На данный момент изучаю автоматизацию тестирования на Java.
 - 📫 Связаться со мной можно в [<img width="2%" title="Telegram" src="images/logo/Telegram.svg">](https://t.me/Yulia_Orl) 
 
@@ -19,7 +19,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YuliaOrl&repo=Project-API-Reqres)](https://github.com/YuliaOrl/Project-API-Reqres)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YuliaOrl&repo=Project-Mobile-Wikipedia)](https://github.com/YuliaOrl/Project-Mobile-Wikipedia)
 
-#### :computer: Использованный стек технологий:
+:computer: #### Использованный стек технологий:
 <p align="center">
 <code><img width="6%" title="Java" src="images/logo/Java.svg"></code>
 <code><img width="6%" title="IntelliJ IDEA" src="images/logo/IntelijIDEA.svg"></code>
@@ -38,7 +38,7 @@
 <code><img width="6%" title="Telegram" src="images/logo/Telegram.svg"></code>
 </p>
 
-#### :triangular_flag_on_post: Что особенного:
+ #### :triangular_flag_on_post: Что особенного:
 
 - [x] Конфиги с помощью библиотеки `Owner`
 - [x] Различные файлы конфигураций для запуска тестов
