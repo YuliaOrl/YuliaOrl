@@ -11,6 +11,9 @@
   </table>
   </br>
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuliaOrl)](https://github.com/YuliaOrl/github-readme-stats)
 
 ### :orange_book: Примеры моих проектов по автоматизации тестирования Web, API и Mobile
