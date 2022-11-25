@@ -6,7 +6,7 @@
 
 <table width="100%" border='0'>
    <tr> 
-    <td width="30%" valign="bottom"><img src="/images/logo/Miet.svg"></td><td valign="middle"><a target="_blank" href="https://miet.ru/">Московский институт электронной техники.</a></br>Факультет микроприборов и технической кибернеетики.</br>Инженер.</td></tr>
+    <td width="30%" valign="bottom"><img src="/images/logo/Miet.svg"></td><td valign="middle"><a target="_blank" href="https://miet.ru/">Московский институт электронной техники.</a></br>Факультет микроприборов и технической кибернетики.</br>Инженер.</td></tr>
     <tr><td width="30%" valign="bottom"><img src="/images/logo/QaGuru.png"></td><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
    </tr>
   </table>
