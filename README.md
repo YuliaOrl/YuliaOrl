@@ -1,20 +1,20 @@
 ## Всем привет! 👋
-🔭 Меня зовут Юлия. Я инженер по тестированию программного обеспечения.
-🌱 На данный момент я изучаю автоматизацию тестирования на Java.
-📫 Связаться со мной: [<img width="3%" title="Telegram" src="images/logo/Telegram.svg">](https://t.me/Yulia_Orl) 
----
+
+- 🔭 Меня зовут Юлия. Я инженер по тестированию программного обеспечения.
+- 🌱 На данный момент я изучаю автоматизацию тестирования на Java.
+- 📫 Связаться со мной: [<img width="3%" title="Telegram" src="images/logo/Telegram.svg">](https://t.me/Yulia_Orl) 
 
 <table width="100%" border='0'>
    <tr> 
-    <td width="30%" valign="bottom"><img src="/images/Miet.svg"></td><td valign="middle"><a target="_blank" href="https://miet.ru/">Московский институт электронной техники.</a>.</td></tr></br>Факультет микроприборов и технической кибернеетики.</br>Инженер.</td></tr>
-    <tr><td width="30%" valign="bottom"><img src="/images/QaGuru.png"></td><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
+    <td width="30%" valign="bottom"><img src="/images/logo/Miet.svg"></td><td valign="middle"><a target="_blank" href="https://miet.ru/">Московский институт электронной техники.</a></br>Факультет микроприборов и технической кибернеетики.</br>Инженер.</td></tr>
+    <tr><td width="30%" valign="bottom"><img src="/images/logo/QaGuru.png"></td><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
    </tr>
   </table>
   </br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuliaOrl)](https://github.com/YuliaOrl/github-readme-stats)
 
-### Примеры моих проектов по автоматизации тестирования Web, API и Mobile:
+### Примеры моих проектов по автоматизации тестирования Web, API и Mobile
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YuliaOrl&repo=Project-UI-PobedaAero)](https://github.com/YuliaOrl/Project-UI-PobedaAero)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YuliaOrl&repo=Project-API-Reqres)](https://github.com/YuliaOrl/Project-API-Reqres)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YuliaOrl&repo=Project-Mobile-Wikipedia)](https://github.com/YuliaOrl/Project-Mobile-Wikipedia)
@@ -38,7 +38,7 @@
 <code><img width="6%" title="Telegram" src="images/logo/Telegram.svg"></code>
 </p>
 
-#####:triangular_flag_on_post: Что особенного:
+#### :triangular_flag_on_post: Что особенного:
 
 - [x] Конфиги с помощью библиотеки `Owner`
 - [x] Различные файлы конфигураций для запуска тестов
@@ -57,11 +57,13 @@
 - [x] Параметризованные UI тесты
 - [x] Реализация `Page Object` c использованием `Chain of Invocations`
 - [x] Удаленный запуск с помощью `Selenoid`
+
  Для API тестов:
 - [x] Библиотека `Rest-Assured`
 - [x] Использование библиотеки `Lombok` для моделей получаемых данных
 - [x] Использование Request/Response спецификаций
 - [x] Кастомный `Allure listener` для форматированного логирования API запросов/ответов
+ 
  Для Mobile тестов:
 - [x] Использование фреймворка `Appium`
 - [x] Удаленный запуск с помощью сервиса BrowserStack
