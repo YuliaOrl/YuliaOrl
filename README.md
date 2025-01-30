@@ -6,8 +6,8 @@
 <table width="100%" border='0'>
    <tr> 
     <td width="30%" valign="bottom"><img src="/images/logo/Miet.svg"></td><td valign="middle"><a target="_blank" href="https://miet.ru/">Московский институт электронной техники.</a></br>Факультет микроприборов и технической кибернетики.</br>Инженер.</td></tr>
-    <tr><td width="30%" valign="bottom"><img src="/images/logo/QaGuru.png"></td><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
-    <tr><td width="30%" valign="bottom"><img src="/images/logo/YanPracticum.png"></td><td valign="middle">Образовательные технологии <a target="_blank" href="https://practicum.yandex.ru">Яндекс Практикум</a>.</td></tr>
+    <tr><td width="30%" valign="bottom"><img src="/images/logo/YanPracticum.png"></td><td valign="middle">Образовательные технологии <a target="_blank" href="https://practicum.yandex.ru">Яндекс Практикум</a>.</br>Автоматизатор тестирования на Python.</td></tr>
+    <tr><td width="30%" valign="bottom"><img src="/images/logo/QaGuru.png"></td><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>.</br>Автоматизация тестирования на Java.</td></tr>
    </tr>
   </table>
   </br>
